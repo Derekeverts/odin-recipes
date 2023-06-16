@@ -1,3 +1,3 @@
 # odin-recipes
-My first project
-Hello!
+My first project about recipes
+
